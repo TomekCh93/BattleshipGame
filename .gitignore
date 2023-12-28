@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Battleship/task/build/
+/Battleship/task/out/
+/Battleship/task/out/production/classes/
